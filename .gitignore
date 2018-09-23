@@ -1,1 +1,5 @@
+# directories and files that are related to virtual environment
 venv/*
+
+# database file
+board.db
